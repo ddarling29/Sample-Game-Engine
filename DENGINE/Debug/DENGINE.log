@@ -1,0 +1,25 @@
+﻿  winMain.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  textureManager.cpp
+  textdx.cpp
+  text.cpp
+  spacewar.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  ship.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  planet.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  input.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  image.cpp
+  graphics.cpp
+  game.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  entity.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  console.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  audio.cpp
+  Generating Code...
+  DENGINE.vcxproj -> C:\Source\DENGINE\Debug\DENGINE.exe
+  DENGINE.vcxproj -> C:\Source\DENGINE\Debug\DENGINE.pdb (Partial PDB)

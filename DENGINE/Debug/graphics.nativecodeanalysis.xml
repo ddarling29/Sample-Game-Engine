@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\source\dengine\</FILEPATH><FILENAME>graphics.h</FILENAME><LINE>47</LINE><COLUMN>6</COLUMN></SFA><DEFECTCODE>6244</DEFECTCODE><DESCRIPTION>Local declaration of 'FULLSCREEN' hides previous declaration at line '17' of 'c:\source\dengine\constants.h'.</DESCRIPTION><FUNCTION></FUNCTION><DECORATED></DECORATED><FUNCLINE>0</FUNCLINE><PATH><SFA><FILEPATH>c:\source\dengine\</FILEPATH><FILENAME>constants.h</FILENAME><LINE>17</LINE><COLUMN>11</COLUMN></SFA></PATH></DEFECT></DEFECTS>

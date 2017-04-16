@@ -1,0 +1,27 @@
+﻿  audio.cpp
+  console.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  entity.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  game.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  graphics.cpp
+  image.cpp
+  input.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  planet.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  ship.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  spacewar.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  text.cpp
+  textdx.cpp
+  textureManager.cpp
+  winMain.cpp
+c:\source\dengine\input.h(34): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+  Generating code
+  All 420 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DENGINE.vcxproj -> C:\Source\DENGINE\Release\DENGINE.exe
+  DENGINE.vcxproj -> C:\Source\DENGINE\Release\DENGINE.pdb (Full PDB)
